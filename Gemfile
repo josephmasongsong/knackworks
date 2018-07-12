@@ -62,4 +62,5 @@ gem 'carrierwave-aws'
 group :production do
   gem 'rails_12factor'
   gem 'platform-api'
+  gem 'heroics', '= 0.0.21'
 end
